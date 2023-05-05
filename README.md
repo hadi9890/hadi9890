@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a multiplayer game to make online classes less boring.<br>👯 I’m looking to collaborate in game jams.<br>🌱 I’m currently learning NextJS.<br>💬 Ask me about LOTR or Star Wars.
+🔭 I’m currently working on a multiplayer game using Unity netcode to make online classes less boring.<br>👯 I’m looking to collaborate with others on game jams.<br>🌱 I’m currently learning NextJS.<br>💬 Ask me about LOTR or Star Wars.
 
 
 ## 🌐 Socials:
