@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a new multiplayer game.<br>👯 I’m looking to collaborate with others for game jams.<br>🌱 I’m currently learning NextJS.<br>💬 Ask me about video games.
+🔭 Working as a Unity Developer.<br>👯 I’m looking to collaborate with others for game jams.<br>🌱 I’m currently trying to break into the games industry.<br>💬 Ask me about video games/Star Wars/Lord Of The Rings.
 
 
 ## 🌐 Socials:
