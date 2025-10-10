@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working as a 3D Developer (Unity - UE5) & Game Development Lecturer.<br>👯 I’m looking to collaborate with others for game jams.<br>🌱 I’m currently trying to break into the games industry.<br>💬 Ask me about video games/Star Wars/Lord Of The Rings.
+🔭 Working as a 3D Developer (Unity - UE5) & Game Development Lecturer.<br>👯 I’m looking to collaborate with others for game jams.<br>🌱 Game systems design and tools programming is my main thing.<br>💬 Ask me about video games/Star Wars/Lord Of The Rings.
 
 
 ## 🌐 Socials:
